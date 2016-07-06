@@ -1,0 +1,7 @@
+name 'ubuntu12webserver'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures ubuntu12webserver'
+long_description 'Installs/Configures ubuntu12webserver'
+version '0.1.0'
